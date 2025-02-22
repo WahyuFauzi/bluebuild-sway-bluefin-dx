@@ -166,7 +166,6 @@ modules:
       scripts:
         - settheming.sh
         - addbrewjustimport.sh
-        - addNeovim.sh
 
     - type: wayblue-signing
       source: local
